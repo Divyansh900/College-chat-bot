@@ -1,0 +1,34 @@
+{
+  "folders": [
+	{
+		"path": "../CODE/JS"
+	},
+	{
+		"path": "../CODE/Frontend"
+	},
+	{
+		"path": "../CODE/NODE"
+	},
+	{
+		"path": "../Courses/CODING/UNZIP_FOR_NOTEBOOKS_FINAL"
+	},
+	{
+		"path": "../CODE/project"
+	},
+	{
+		"path": "../CODE/C"
+	},
+	{
+		"path": "../CODE/mp"
+	},
+	{
+		"path": "../CODE/AI"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mp",
+    "files.associations": {
+      "iostream": "cpp"
+    }
+  }
+}
